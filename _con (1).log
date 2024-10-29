@@ -1,0 +1,142 @@
+2024-10-25 15:58:12,404 - INFO - Cookies loaded successfully.
+2024-10-25 15:58:22,421 - INFO - Sanitizing profile URL.
+2024-10-25 15:58:30,855 - INFO - Attempting to connect with profile: https://www.linkedin.com/in/zach-krantz-cfp®-a1b394b
+2024-10-25 15:59:21,300 - ERROR - Error while closing message overlay: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00DE5523+24195]
+	(No symbol) [0x00D7AA04]
+	(No symbol) [0x00C72093]
+	(No symbol) [0x00CB6ED2]
+	(No symbol) [0x00CB711B]
+	(No symbol) [0x00CF76F2]
+	(No symbol) [0x00CDAB84]
+	(No symbol) [0x00CF5280]
+	(No symbol) [0x00CDA8D6]
+	(No symbol) [0x00CABA27]
+	(No symbol) [0x00CAC43D]
+	GetHandleVerifier [0x010ACE13+2938739]
+	GetHandleVerifier [0x010FEC69+3274185]
+	GetHandleVerifier [0x00E709C2+594722]
+	GetHandleVerifier [0x00E77EDC+624700]
+	(No symbol) [0x00D837CD]
+	(No symbol) [0x00D80528]
+	(No symbol) [0x00D806C5]
+	(No symbol) [0x00D72CA6]
+	BaseThreadInitThunk [0x762B7BA9+25]
+	RtlInitializeExceptionChain [0x7731C0CB+107]
+	RtlClearBits [0x7731C04F+191]
+
+2024-10-25 16:00:11,759 - ERROR - Error clicking direct 'Connect' button: Message: 
+
+2024-10-25 16:00:12,038 - INFO - 'More' button clicked.
+2024-10-25 16:01:02,213 - ERROR - Error clicking 'Connect' button in 'More' dropdown: Message: 
+
+2024-10-25 16:01:52,261 - ERROR - Could not send connection request:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00DE5523+24195]
+	(No symbol) [0x00D7AA04]
+	(No symbol) [0x00C72093]
+	(No symbol) [0x00CB6ED2]
+	(No symbol) [0x00CB711B]
+	(No symbol) [0x00CF76F2]
+	(No symbol) [0x00CDAB84]
+	(No symbol) [0x00CF5280]
+	(No symbol) [0x00CDA8D6]
+	(No symbol) [0x00CABA27]
+	(No symbol) [0x00CAC43D]
+	GetHandleVerifier [0x010ACE13+2938739]
+	GetHandleVerifier [0x010FEC69+3274185]
+	GetHandleVerifier [0x00E709C2+594722]
+	GetHandleVerifier [0x00E77EDC+624700]
+	(No symbol) [0x00D837CD]
+	(No symbol) [0x00D80528]
+	(No symbol) [0x00D806C5]
+	(No symbol) [0x00D72CA6]
+	BaseThreadInitThunk [0x762B7BA9+25]
+	RtlInitializeExceptionChain [0x7731C0CB+107]
+	RtlClearBits [0x7731C04F+191]
+
+2024-10-25 16:02:42,484 - ERROR - Error sending connection request with note: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00DE5523+24195]
+	(No symbol) [0x00D7AA04]
+	(No symbol) [0x00C72093]
+	(No symbol) [0x00CB6ED2]
+	(No symbol) [0x00CB711B]
+	(No symbol) [0x00CF76F2]
+	(No symbol) [0x00CDAB84]
+	(No symbol) [0x00CF5280]
+	(No symbol) [0x00CDA8D6]
+	(No symbol) [0x00CABA27]
+	(No symbol) [0x00CAC43D]
+	GetHandleVerifier [0x010ACE13+2938739]
+	GetHandleVerifier [0x010FEC69+3274185]
+	GetHandleVerifier [0x00E709C2+594722]
+	GetHandleVerifier [0x00E77EDC+624700]
+	(No symbol) [0x00D837CD]
+	(No symbol) [0x00D80528]
+	(No symbol) [0x00D806C5]
+	(No symbol) [0x00D72CA6]
+	BaseThreadInitThunk [0x762B7BA9+25]
+	RtlInitializeExceptionChain [0x7731C0CB+107]
+	RtlClearBits [0x7731C04F+191]
+
+2024-10-25 16:02:51,778 - INFO - Sanitizing profile URL.
+2024-10-25 16:03:05,566 - INFO - Attempting to connect with profile: https://www.linkedin.com/in/melissawrightcfp
+2024-10-25 16:03:55,845 - ERROR - Error while closing message overlay: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00DE5523+24195]
+	(No symbol) [0x00D7AA04]
+	(No symbol) [0x00C72093]
+	(No symbol) [0x00CB6ED2]
+	(No symbol) [0x00CB711B]
+	(No symbol) [0x00CF76F2]
+	(No symbol) [0x00CDAB84]
+	(No symbol) [0x00CF5280]
+	(No symbol) [0x00CDA8D6]
+	(No symbol) [0x00CABA27]
+	(No symbol) [0x00CAC43D]
+	GetHandleVerifier [0x010ACE13+2938739]
+	GetHandleVerifier [0x010FEC69+3274185]
+	GetHandleVerifier [0x00E709C2+594722]
+	GetHandleVerifier [0x00E77EDC+624700]
+	(No symbol) [0x00D837CD]
+	(No symbol) [0x00D80528]
+	(No symbol) [0x00D806C5]
+	(No symbol) [0x00D72CA6]
+	BaseThreadInitThunk [0x762B7BA9+25]
+	RtlInitializeExceptionChain [0x7731C0CB+107]
+	RtlClearBits [0x7731C04F+191]
+
+2024-10-25 16:04:45,923 - ERROR - Error clicking direct 'Connect' button: Message: 
+
+2024-10-25 16:04:46,275 - INFO - 'More' button clicked.
+2024-10-25 16:04:46,474 - INFO - 'Connect' button clicked successfully.
+2024-10-25 16:05:38,532 - ERROR - Could not send connection request:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00DE5523+24195]
+	(No symbol) [0x00D7AA04]
+	(No symbol) [0x00C72093]
+	(No symbol) [0x00CB6ED2]
+	(No symbol) [0x00CB711B]
+	(No symbol) [0x00CF76F2]
+	(No symbol) [0x00CDAB84]
+	(No symbol) [0x00CF5280]
+	(No symbol) [0x00CDA8D6]
+	(No symbol) [0x00CABA27]
+	(No symbol) [0x00CAC43D]
+	GetHandleVerifier [0x010ACE13+2938739]
+	GetHandleVerifier [0x010FEC69+3274185]
+	GetHandleVerifier [0x00E709C2+594722]
+	GetHandleVerifier [0x00E77EDC+624700]
+	(No symbol) [0x00D837CD]
+	(No symbol) [0x00D80528]
+	(No symbol) [0x00D806C5]
+	(No symbol) [0x00D72CA6]
+	BaseThreadInitThunk [0x762B7BA9+25]
+	RtlInitializeExceptionChain [0x7731C0CB+107]
+	RtlClearBits [0x7731C04F+191]
+
+2024-10-25 16:06:24,500 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/ec9f348c8ea1ab5c0e40a8ba662ed0f3
+2024-10-25 16:06:28,597 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025BFA4DE610>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ec9f348c8ea1ab5c0e40a8ba662ed0f3
+2024-10-25 16:06:32,702 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025BFA4DD4D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ec9f348c8ea1ab5c0e40a8ba662ed0f3
